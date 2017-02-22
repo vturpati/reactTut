@@ -8,7 +8,7 @@ export default class App extends Component{
         return (
         <div>
             My first react component dynanically 1234<br></br>
-            Vivek 
+            Vivek Turpati
         </div>
         );
     }
